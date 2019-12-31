@@ -1,0 +1,2 @@
+# giyim
+sandik avm
